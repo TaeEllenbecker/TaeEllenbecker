@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Tae Ellenbecker!<br><br>
-🎓 I'm a **Computer Science** & **Software Engineering** major at Augustana University (Class of 2026)
+🎓 I'm a **Computer Science** & **Software Engineering** major at Augustana University (Class of 2026)<br><br>
 💻 I build things—from a sleek [portfolio website](https://taeellenbecker.github.io/) to an [AI sentiment analysis tool](https://github.com/TaeEllenbecker/AI-Sentiment). I’m passionate about **clean design**, **smart solutions**, and leveling up as a developer.<br><br>
 🔍 Currently seeking **internships** and **collaborative roles** where I can learn, grow, and contribute.<br><br>
 🌱 When I'm not coding, I enjoy staying active, picking up new languages, and spending time with friends.<br><br>
