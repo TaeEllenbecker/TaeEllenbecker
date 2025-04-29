@@ -20,8 +20,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TaeEllenbecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TaeEllenbecker&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TaeEllenbecker&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeEllenbecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
