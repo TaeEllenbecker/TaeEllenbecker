@@ -6,8 +6,9 @@
 🚀 Let’s connect!
 
 ## 🌐 Socials:
-[![Instagram][<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://instagram.com/tae.ellenbecker) 
-[![LinkedIn]([<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>])](https://www.linkedin.com/in/tae-ellenbecker-384194225/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://linkedin.com/in/TaeEllenbecker)
+&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30"/>](https://instagram.com/tae.ellenbecker)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
