@@ -1,6 +1,4 @@
-# 💫 About Me:
 ## 👋 Hi there, I'm Tae Ellenbecker!<br><br>🎓 I'm currently pursuing a degree in **Computer Science** and **Software Engineering** at Augustana University (Class of 2026), where I'm also serving as the **Secretary of the Computer Science Club**. From coding projects to personal development, I love taking on challenges that push me to grow as not only a programmer but as a person.<br><br>💻 I build things—from a sleek [personal portfolio website](https://taeellenbecker.github.io/) to an [AI sentiment analysis tool](https://github.com/TaeEllenbecker/AI-Sentiment). I'm passionate about **problem-solving**, **efficient design**, and progressing as a Software Engineer<br><br>🔍 I'm currently **seeking internships, collaborative opportunities, and any positions** where I can apply my knowledge and skills while learning from experienced professionals. My ideal work blends **technical rigor** with **creative thinking**.<br><br>🌱 Outside of tech, you’ll find me staying active, learning languages, and spending time with friends<br><br>🚀 Feel free to connect!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae.ellenbecker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tae Ellenbecker) 
@@ -17,5 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TaeEllenbecker&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
