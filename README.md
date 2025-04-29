@@ -6,7 +6,7 @@
 🚀 Let’s connect!
 
 ## 🌐 Socials:
-[![Instagram][<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>)(https://instagram.com/tae.ellenbecker) 
+[![Instagram][<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://instagram.com/tae.ellenbecker) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tae-ellenbecker-384194225/)
 
 # 💻 Tech Stack:
