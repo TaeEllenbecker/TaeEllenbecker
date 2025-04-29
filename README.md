@@ -3,11 +3,9 @@
 💻 Working on: **Website 2.0**<br><br>
 🧠 Learning: **Backend Technologies** <br><br>
 🔍 Seeking **Internships** and **Collaborations** where I can learn, grow, and contribute.<br><br>
-🚀 Let’s connect!
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae.ellenbecker) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tae-ellenbecker-384194225/) 
+🚀 Let’s connect!<br>
+  - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae.ellenbecker) 
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tae-ellenbecker-384194225/) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
