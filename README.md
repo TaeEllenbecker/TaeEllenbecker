@@ -2,7 +2,7 @@
 🎓 I'm a **Computer Science** & **Software Engineering** major at Augustana University (Class of 2026)<br><br>
 💻 Working on: **Website 2.0**<br><br>
 🧠 Learning: **Backend Technologies** <br><br>
-🔍 Seeking **Internships** and **Collaborations** where I can learn, grow, and contribute.<br><br>
+🔍 Seeking: **Software Positions**, **Internships**, **Collaborations**<br><br>
 🚀 Let’s connect!<br>
   - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae.ellenbecker) 
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tae-ellenbecker-384194225/) 
