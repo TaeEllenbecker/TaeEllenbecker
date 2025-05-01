@@ -19,7 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35"/>
 </p>
- 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=TaeEllenbecker&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeEllenbecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<h2 align="center">📊 GitHub Stats:</h2>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TaeEllenbecker&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeEllenbecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
