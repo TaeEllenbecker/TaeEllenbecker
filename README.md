@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Tae Ellenbecker!<br><br>
 🎓 I'm a **Computer Science** & **Software Engineering** major at Augustana University (Class of 2026)<br><br>
 💻 Working on: **Website 2.0**<br><br>
-🧠 Learning: **Backend Technologies**, Korean, and Czech <br><br>
+🧠 Learning: **Backend Technologies, AWS**, Korean, and Czech <br><br>
 🔍 Seeking: **Software Positions**, **Internships**, **Collaborations**<br><br>
 🚀 Let’s connect!<br>
   - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae.ellenbecker) 
