@@ -21,7 +21,7 @@
 </p>
 
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center">📊 Stats:</h2>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=TaeEllenbecker&theme=dark&hide_border=false" />
