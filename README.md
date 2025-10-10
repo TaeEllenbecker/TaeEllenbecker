@@ -7,7 +7,7 @@ Let’s connect!<br>
   - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae.ellenbecker) 
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tae-ellenbecker-384194225/) 
 
-<h2 align="center">💻 Languages and Frameworks:</h2>
+<h2 align="center">Languages and Frameworks:</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" />
