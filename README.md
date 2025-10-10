@@ -20,9 +20,6 @@ Let’s connect!<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35"/>
 </p>
 
-
-<h2 align="center">📊 Stats:</h2>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=TaeEllenbecker&theme=dark&hide_border=false" />
 </p>
