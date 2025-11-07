@@ -1,5 +1,6 @@
 ## Hi, I'm Tae Ellenbecker!<br><br>
-I'm a **Computer Science** & **Software Engineering** major at Augustana University (Class of 2026)<br><br>
+I'm a **Computer Science** & **Software Engineering** major at Augustana University (Class of 2026)<br>
+Currently, I am an exchange student at Yonsei University in Seoul, South Korea<br><br>
 Working on: **Lingual Browser Extension**<br><br>
 Learning: **Doxygen, Jira**, Korean, and Czech <br><br>
 Seeking: **Software Positions**, **Internships**, **Collaborations**<br><br>
